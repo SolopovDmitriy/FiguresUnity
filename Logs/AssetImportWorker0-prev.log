@@ -220,3 +220,9 @@ Received Import Request.
   path: Assets/texture/pexels-pixabay-326333.jpg
   artifactKey: Guid(a8954a6f682d9c542a0ecd01040b7635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/texture/pexels-pixabay-326333.jpg using Guid(a8954a6f682d9c542a0ecd01040b7635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3259bcae1d2c978bdc350cf7dd644987') in 0.037307 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3152.417485 seconds.
+  path: Assets/texture/bricks.mat
+  artifactKey: Guid(203d677652ef89942bf060276e3f7b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/texture/bricks.mat using Guid(203d677652ef89942bf060276e3f7b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f979a2824c95b13a8f0fcd051c6e76ca') in 0.495198 seconds 
